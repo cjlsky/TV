@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 group-title="未分组",CCTV1
+https://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv1_2/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV2
+http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+#EXTINF:-1 group-title="未分组",CCTV3
+http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+#EXTINF:-1 group-title="未分组",CCTV3
+http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+#EXTINF:-1 group-title="未分组",CCTV4
+http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+#EXTINF:-1 group-title="未分组",CCTV4(1)
+http://cfss.cc/api/ysp/cctv4.m3u8
+#EXTINF:-1 group-title="未分组",CCTV4(2)
+https://iptv.luas.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/0baa43f537-0-0-5bc4eda6a2031a1140906b86d867a79e/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV5
+http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+#EXTINF:-1 group-title="未分组",CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
+#EXTINF:-1 group-title="未分组",CCTV12
+http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
+#EXTINF:-1 group-title="未分组",湖南卫视
+http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
+#EXTINF:-1 group-title="未分组",浙江卫视
+http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
+#EXTINF:-1 group-title="未分组",江苏
+http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
+#EXTINF:-1 group-title="未分组",东方卫视
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=f80cde9a04b90516da59cb7b37cbe053&volcTime=1701598962
+#EXTINF:-1 group-title="未分组",东方卫视1
+http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
+#EXTINF:-1 group-title="未分组",安徽卫视
+http://120.196.232.45:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
+#EXTINF:-1 group-title="未分组",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/d7324ea34d8417a9885049590963707e.m3u8
+#EXTINF:-1 group-title="未分组",珠江台
+http://gxdl-lhs.8866.org:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分组",广东卫视
+http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
+#EXTINF:-1 group-title="未分组",广东
+http://ci.emdoor.tech:8080/touchtv.php?pk=1186
+#EXTINF:-1 group-title="未分组",ABC news
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="未分组",BBC World News Asia
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="未分组",CCTV2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="未分组",CCTV13
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="未分组",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 group-title="未分组",cna
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="未分组",fox
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 group-title="未分组",fox
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="未分组",WSJ
+https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8
+#EXTINF:-1 group-title="未分组",Yohoo
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
